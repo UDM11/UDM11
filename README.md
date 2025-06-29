@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umesh Darlamii</h1>
+<h1 align="center">Hi 👋, I'm Umesh Darlami</h1>
 
 🔭 I’m currently working on Building a portfolio website and learning full-stack web development.<br>👯 I’m looking to collaborate on Open-source projects, especially beginner-friendly ones in JavaScript, Python, or C.<br>🤝 I’m looking for help with Understanding advanced JavaScript concepts and competitive programming.<br>🌱 I’m currently learning React.js, Node.js, ethical hacking using Kali Linux, and exploring Large Language Models (LLMs) like ChatGPT for AI-powered development.<br>⚡ Fun fact I love solving puzzles and creating digital art with code!
 
