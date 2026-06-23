@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umesh Darlami</h1>
 
-# 💫 About Me:
-- 🔭 I’m currently working on full-stack web applications and AI integrations.<br>- 👯 I’m looking to collaborate on open-source web and machine learning projects.<br>- 🌱 I’m currently learning advanced DevOps, cloud deployment, and LLMs.<br>- 💬 Ask me about Python, JavaScript, databases, or AI.<br>- ⚡ Fun fact: I spend 90% of my time debugging and the other 10% wondering how it worked.
+🔭 I’m currently working on full-stack web applications and AI integrations.<br>- 👯 I’m looking to collaborate on open-source web and machine learning projects.<br>- 🌱 I’m currently learning advanced DevOps, cloud deployment, and LLMs.<br>- 💬 Ask me about Python, JavaScript, databases, or AI.<br>- ⚡ Fun fact: I spend 90% of my time debugging and the other 10% wondering how it worked.
 
 
 ## 🌐 Socials:
