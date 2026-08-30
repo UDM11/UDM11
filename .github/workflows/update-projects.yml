@@ -1,0 +1,55 @@
+name: Update Profile README
+
+on:
+  schedule:
+    # Run once every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  
+  # Allow manual workflow trigger
+  workflow_dispatch:
+
+  # Run on README.md changes to test locally
+  push:
+    paths:
+      - 'README.md'
+      - 'scripts/update_projects.py'
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-projects:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+      
+      - name: Update featured projects
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_ACTOR: ${{ github.actor }}
+        run: |
+          python scripts/update_projects.py
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update profile README [skip ci]"
+          git push
