@@ -51,8 +51,53 @@ I build full-stack web applications, explore AI technologies, and create useful 
 ## Featured Projects
 
 <!-- PROJECTS:START -->
-No showcase projects found yet. Add the 'showcase' topic to your repositories to display them here.
+### [UDM11](https://github.com/UDM11/UDM11)
 
+Config files for my GitHub profile.
+
+**Language:** Python · **⭐ Stars:** 0
+
+---
+
+### [NepseAI](https://github.com/UDM11/NepseAI)
+
+An AI-powered full-stack quantitative trading assistant. Predicts market signals (BUY/SELL/HOLD) from historical OHLCV data using XGBoost & RandomForest, paired with OpenAI GPT models for automated technical analysis. Built with FastAPI, Supabase, and React (Vite).
+
+**Language:** JavaScript · **⭐ Stars:** 0
+
+---
+
+### [FandF-Car-Showroom](https://github.com/UDM11/FandF-Car-Showroom)
+
+A premium, responsive Car Showroom website integrated with an AI-powered PDF RAG chatbot built using FastAPI, LangChain, ChromaDB, and OpenAI.
+
+**Language:** HTML · **⭐ Stars:** 0
+
+---
+
+### [ReactProject](https://github.com/UDM11/ReactProject)
+
+No description available
+
+**Language:** JavaScript · **⭐ Stars:** 0
+
+---
+
+### [TravelAssistantSystem](https://github.com/UDM11/TravelAssistantSystem)
+
+An AI-powered travel planning system that generates personalized itineraries using FastAPI (Python) and React (TypeScript).
+
+**Language:** TypeScript · **⭐ Stars:** 0
+
+---
+
+### [AgenticAI](https://github.com/UDM11/AgenticAI)
+
+No description available
+
+**Language:** Python · **⭐ Stars:** 0
+
+---
 <!-- PROJECTS:END -->
 
 ---

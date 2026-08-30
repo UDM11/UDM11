@@ -35,7 +35,7 @@ def get_github_token() -> Optional[str]:
 
 def fetch_showcase_repositories(username: str, token: Optional[str] = None) -> List[Dict]:
     """
-    Fetch repositories with the 'showcase' topic from GitHub.
+    Fetch top repositories from GitHub (sorted by stars and updated date).
 
     Args:
         username: GitHub username
@@ -51,25 +51,29 @@ def fetch_showcase_repositories(username: str, token: Optional[str] = None) -> L
     if token:
         headers['Authorization'] = f'token {token}'
     
-    # Search for repositories with showcase topic, excluding forks
-    url = f'https://api.github.com/search/repositories'
+    # Fetch user's repositories directly
+    url = f'https://api.github.com/users/{username}/repos'
     params = {
-        'q': f'user:{username} topic:showcase fork:false',
         'sort': 'updated',
         'order': 'desc',
-        'per_page': 10
+        'per_page': 20,
+        'type': 'owner'  # Only get repositories owned by the user
     }
     
     try:
         response = requests.get(url, headers=headers, params=params)
         response.raise_for_status()
-        data = response.json()
+        repos = response.json()
         
-        if 'items' not in data:
+        if not isinstance(repos, list):
             print(f"Warning: Unexpected API response format")
             return []
         
-        return data['items']
+        # Filter out forks and sort by stars (descending)
+        non_forks = [repo for repo in repos if not repo.get('fork', False)]
+        sorted_repos = sorted(non_forks, key=lambda x: x.get('stargazers_count', 0), reverse=True)
+        
+        return sorted_repos
     
     except requests.exceptions.RequestException as e:
         print(f"Error fetching repositories: {e}")
@@ -87,8 +91,8 @@ def format_repository(repo: Dict) -> str:
         Formatted markdown string
     """
     name = repo.get('name', 'Unknown')
-    description = repo.get('description', 'No description available')
-    language = repo.get('language', 'Unknown')
+    description = repo.get('description') or 'No description available'
+    language = repo.get('language') or 'Unknown'
     stars = repo.get('stargazers_count', 0)
     url = repo.get('html_url', '#')
     
@@ -128,7 +132,7 @@ def update_readme(repositories: List[Dict], readme_path: str = 'README.md') -> b
         projects_section = "\n".join([format_repository(repo) for repo in repositories[:6]])
     else:
         projects_section = """
-No showcase projects found yet. Add the 'showcase' topic to your repositories to display them here.
+No repositories found yet. Once you create repositories, they will appear here automatically.
 """
     
     # Find and replace the projects section
@@ -168,19 +172,18 @@ def main():
     if not token:
         token = get_github_token()
     
-    print(f"Fetching showcase repositories for user: {username}")
+    print(f"Fetching top repositories for user: {username}")
     
     # Fetch repositories
     repositories = fetch_showcase_repositories(username, token)
     
     if not repositories:
-        print("No showcase repositories found")
-        print("Add the 'showcase' topic to your repositories to display them here")
+        print("No repositories found")
         # Still update README with "no projects" message
         update_readme([])
         return
     
-    print(f"Found {len(repositories)} showcase repositories")
+    print(f"Found {len(repositories)} repositories")
     
     # Update README
     updated = update_readme(repositories)
