@@ -51,19 +51,19 @@ I build full-stack web applications, explore AI technologies, and create useful 
 ## Featured Projects
 
 <!-- PROJECTS:START -->
-### [UDM11](https://github.com/UDM11/UDM11)
-
-Config files for my GitHub profile.
-
-**Language:** Python · **⭐ Stars:** 0
-
----
-
 ### [NepseAI](https://github.com/UDM11/NepseAI)
 
 An AI-powered full-stack quantitative trading assistant. Predicts market signals (BUY/SELL/HOLD) from historical OHLCV data using XGBoost & RandomForest, paired with OpenAI GPT models for automated technical analysis. Built with FastAPI, Supabase, and React (Vite).
 
 **Language:** JavaScript · **⭐ Stars:** 0
+
+---
+
+### [UDM11](https://github.com/UDM11/UDM11)
+
+Config files for my GitHub profile.
+
+**Language:** Python · **⭐ Stars:** 0
 
 ---
 
