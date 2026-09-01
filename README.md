@@ -1,123 +1,164 @@
 <div align="center">
 
-# Hi, I'm Umesh Darlami 👋
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:00599C&height=200&section=header&text=Umesh%20Darlami&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" alt="Umesh Darlami"/>
 
-**Full-Stack Developer · AI Enthusiast · Computer Science Student**
+<!-- DYNAMIC TYPING SVG -->
+<a href="https://github.com/UDM11">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;AI+%26+LLM+Application+Builder;Quantitative+Trading+Systems+Enthusiast;Open+Source+Contributor+%26+Problem+Solver" alt="Typing SVG" />
+</a>
 
-I build full-stack web applications, explore AI technologies, and create useful projects that solve real problems.
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umesh-darlami-magar-a96a37284)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darlamiumesh123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UDM11)
+<!-- STATUS BADGES & VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UDM11&label=Profile%20Views&color=00f2fe&style=flat-square" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-success?style=flat-square&logo=gitbook&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack-blueviolet?style=flat-square" alt="Focus" />
+</p>
+
+<!-- SOCIAL BUTTONS -->
+<p align="center">
+  <a href="https://linkedin.com/in/umesh-darlami-magar-a96a37284"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:darlamiumesh123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://instagram.com/umesh_magar44"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://facebook.com/umesh.darlami.magar.506534"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+### ⚡ Executive Summary
 
-- Building full-stack web applications and AI-powered projects
-- Learning cloud deployment, DevOps, and Large Language Models
-- Interested in web development, AI, automation, and open source
-- Open to collaboration on meaningful projects
-
----
-
-## Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-
-### Frontend
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-
-### AI & Data Science
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-
-### Database
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
-
-### Cloud & DevOps
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
-
-### Tools
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=flat&logo=sentry&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+```yaml
+name: Umesh Darlami
+role: Full-Stack Developer & AI Systems Engineer
+location: Nepal 🇳🇵
+core_stack: [Python, FastAPI, TypeScript, React, PyTorch, Supabase]
+current_focus: Building Quantitative AI Trading Models & Agentic RAG Architectures
+open_for: Full-Stack / AI Engineering Roles, Collaborations & Open Source
+```
 
 ---
 
-## Featured Projects
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | <a href="#"><img src="https://skillicons.dev/icons?i=python,ts,js,c,php,html,css" alt="Languages"/></a> |
+| **Frontend Frameworks** | <a href="#"><img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,sass" alt="Frontend"/></a> |
+| **Backend & APIs** | <a href="#"><img src="https://skillicons.dev/icons?i=fastapi,express,nodejs" alt="Backend"/></a> |
+| **AI, ML & Data Science** | <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn" alt="AI and ML"/></a> |
+| **Databases & Cloud** | <a href="#"><img src="https://skillicons.dev/icons?i=postgres,supabase,redis,firebase,gcp,cloudflare,vercel,netlify" alt="Cloud and DB"/></a> |
+| **Dev Tools & Workflow** | <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Dev Tools"/></a> |
+
+</div>
+
+---
+
+### 🌟 Featured Flagship Projects
 
 <!-- PROJECTS:START -->
-### [NepseAI](https://github.com/UDM11/NepseAI)
-
-An AI-powered full-stack quantitative trading assistant. Predicts market signals (BUY/SELL/HOLD) from historical OHLCV data using XGBoost & RandomForest, paired with OpenAI GPT models for automated technical analysis. Built with FastAPI, Supabase, and React (Vite).
-
-**Language:** JavaScript · **⭐ Stars:** 0
-
----
-
-### [UDM11](https://github.com/UDM11/UDM11)
-
-Config files for my GitHub profile.
-
-**Language:** Python · **⭐ Stars:** 0
-
----
-
-### [FandF-Car-Showroom](https://github.com/UDM11/FandF-Car-Showroom)
-
-A premium, responsive Car Showroom website integrated with an AI-powered PDF RAG chatbot built using FastAPI, LangChain, ChromaDB, and OpenAI.
-
-**Language:** HTML · **⭐ Stars:** 0
-
----
-
-### [ReactProject](https://github.com/UDM11/ReactProject)
-
-No description available
-
-**Language:** JavaScript · **⭐ Stars:** 0
-
----
-
-### [TravelAssistantSystem](https://github.com/UDM11/TravelAssistantSystem)
-
-An AI-powered travel planning system that generates personalized itineraries using FastAPI (Python) and React (TypeScript).
-
-**Language:** TypeScript · **⭐ Stars:** 0
-
----
-
-### [AgenticAI](https://github.com/UDM11/AgenticAI)
-
-No description available
-
-**Language:** Python · **⭐ Stars:** 0
-
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/UDM11/NepseAI">NepseAI</a></h3>
+      <p>An AI-powered full-stack quantitative trading assistant. Predicts market signals (BUY/SELL/HOLD) from historical OHLCV data using XGBoost & RandomForest, paired with OpenAI GPT models for automated technical analysis. Built with FastAPI, Supabase, and React (Vite).</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/UDM11/NepseBOT">NepseBOT</a></h3>
+      <p>High-performance NEPSE trading bot that preemptively stages orders and executes buy submissions in sub-milliseconds the moment a target stock becomes tradable at its daily limit.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👥 <a href="https://github.com/UDM11/BCSITHub">BCSITHub</a></h3>
+      <p>A premium, feature-rich academic portal for Pokhara University BCSIT students featuring study notes, past papers, an online code compiler, a CGPA calculator, and AI quiz tools.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚗 <a href="https://github.com/UDM11/Fast-and-Furious-Showroom">Fast-and-Furious-Showroom</a></h3>
+      <p>Dynamic car showroom platform with vehicle listings, real-time availability, interactive user experience, and AI-powered chatbot assistance.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👥 <a href="https://github.com/UDM11/Portfolio">Portfolio</a></h3>
+      <p>A premium, dynamic developer portfolio and custom Content Management System (CMS) built with React TypeScript, FastAPI, and Supabase, fully deployed as a unified application.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/UDM11/PDF-Compression">PDF-Compression</a></h3>
+      <p>A premium, client-side PDF compressor that uses a 2D parametric bisection search solver to hit target file size constraints 100% private, fast, and runs entirely in-browser.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+      </p>
+    </td>
+  </tr>
+</table>
 <!-- PROJECTS:END -->
 
 ---
 
-## GitHub Statistics
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
 
-![GitHub Stats](https://ghchart.rshah.org/UDM11?theme=radical)
+<!-- PROFILE DETAILS CARD -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UDM11&theme=radical" alt="Profile Details" width="100%"/>
+</p>
+
+<!-- CONTRIBUTION GRAPH -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/UDM11" alt="Contribution Graph" width="100%" />
+</p>
 
 </div>
 
 ---
 
-## Connect
-
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/umesh.darlami.magar.506534)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/umesh_magar44)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umesh-darlami-magar-a96a37284)
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:00F2FE&height=120&section=footer" width="100%" alt="Footer Wave"/>
+
+<p align="center">
+  ⭐️ <i>Designed & Engineered by <a href="https://github.com/UDM11">Umesh Darlami</a></i> ⭐️
+</p>
 
 </div>
