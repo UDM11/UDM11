@@ -143,10 +143,6 @@ open_for: Full-Stack / AI Engineering Roles, Collaborations & Open Source
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UDM11&theme=radical" alt="Profile Details" width="100%"/>
 </p>
 
-<!-- CONTRIBUTION GRAPH -->
-<p align="center">
-  <img src="https://ghchart.rshah.org/UDM11" alt="Contribution Graph" width="100%" />
-</p>
 
 <!-- SNAKE CONTRIBUTION ANIMATION -->
 <p align="center">
