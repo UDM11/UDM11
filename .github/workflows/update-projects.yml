@@ -2,8 +2,8 @@ name: Update Profile README
 
 on:
   schedule:
-    # Run once every day at 00:00 UTC
-    - cron: '0 0 * * *'
+    # Run automatically every 6 hours (4 times a day)
+    - cron: '0 */6 * * *'
   
   # Allow manual workflow trigger
   workflow_dispatch:
@@ -42,7 +42,7 @@ jobs:
       - name: Update featured projects
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_ACTOR: ${{ github.actor }}
+          GITHUB_ACTOR: ${{ github.repository_owner }}
         run: |
           python scripts/update_projects.py
       

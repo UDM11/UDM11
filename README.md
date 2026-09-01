@@ -65,6 +65,16 @@ open_for: Full-Stack / AI Engineering Roles, Collaborations & Open Source
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🚀 <a href="https://github.com/UDM11/WhatsappAutomationUsingChatGPT">WhatsappAutomationUsingChatGPT</a></h3>
+      <p>WhatsApp auto-reply bot powered by ChatGPT, no API key needed. Built on the official Meta WhatsApp Business API.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>📈 <a href="https://github.com/UDM11/NepseAI">NepseAI</a></h3>
       <p>An AI-powered full-stack quantitative trading assistant. Predicts market signals (BUY/SELL/HOLD) from historical OHLCV data using XGBoost & RandomForest, paired with OpenAI GPT models for automated technical analysis. Built with FastAPI, Supabase, and React (Vite).</p>
       <p>
@@ -74,6 +84,8 @@ open_for: Full-Stack / AI Engineering Roles, Collaborations & Open Source
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📈 <a href="https://github.com/UDM11/NepseBOT">NepseBOT</a></h3>
       <p>High-performance NEPSE trading bot that preemptively stages orders and executes buy submissions in sub-milliseconds the moment a target stock becomes tradable at its daily limit.</p>
@@ -84,8 +96,6 @@ open_for: Full-Stack / AI Engineering Roles, Collaborations & Open Source
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>👥 <a href="https://github.com/UDM11/BCSITHub">BCSITHub</a></h3>
       <p>A premium, feature-rich academic portal for Pokhara University BCSIT students featuring study notes, past papers, an online code compiler, a CGPA calculator, and AI quiz tools.</p>
@@ -96,6 +106,8 @@ open_for: Full-Stack / AI Engineering Roles, Collaborations & Open Source
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🚗 <a href="https://github.com/UDM11/Fast-and-Furious-Showroom">Fast-and-Furious-Showroom</a></h3>
       <p>Dynamic car showroom platform with vehicle listings, real-time availability, interactive user experience, and AI-powered chatbot assistance.</p>
@@ -106,8 +118,6 @@ open_for: Full-Stack / AI Engineering Roles, Collaborations & Open Source
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>👥 <a href="https://github.com/UDM11/Portfolio">Portfolio</a></h3>
       <p>A premium, dynamic developer portfolio and custom Content Management System (CMS) built with React TypeScript, FastAPI, and Supabase, fully deployed as a unified application.</p>
@@ -116,16 +126,6 @@ open_for: Full-Stack / AI Engineering Roles, Collaborations & Open Source
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/UDM11/PDF-Compression">PDF-Compression</a></h3>
-      <p>A premium, client-side PDF compressor that uses a 2D parametric bisection search solver to hit target file size constraints 100% private, fast, and runs entirely in-browser.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
       </p>
     </td>
   </tr>
@@ -146,6 +146,15 @@ open_for: Full-Stack / AI Engineering Roles, Collaborations & Open Source
 <!-- CONTRIBUTION GRAPH -->
 <p align="center">
   <img src="https://ghchart.rshah.org/UDM11" alt="Contribution Graph" width="100%" />
+</p>
+
+<!-- SNAKE CONTRIBUTION ANIMATION -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UDM11/UDM11/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UDM11/UDM11/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/UDM11/UDM11/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </p>
 
 </div>

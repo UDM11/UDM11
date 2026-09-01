@@ -21,10 +21,8 @@ import requests
 def get_github_username() -> str:
     """Get GitHub username from environment variable or command line."""
     username = os.getenv('GITHUB_ACTOR')
-    if not username:
-        print("Error: GITHUB_ACTOR environment variable not set")
-        print("Please provide username via --username flag or set GITHUB_ACTOR")
-        sys.exit(1)
+    if not username or username.lower() in ('github-actions[bot]', 'github-actions'):
+        username = 'UDM11'
     return username
 
 
