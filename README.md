@@ -65,6 +65,16 @@ open_for: Full-Stack / AI Engineering Roles, Collaborations & Open Source
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>👥 <a href="https://github.com/UDM11/BCSITHub">BCSITHub</a></h3>
+      <p>A premium, feature-rich academic portal for Pokhara University BCSIT students featuring study notes, past papers, an online code compiler, a CGPA calculator, and AI quiz tools.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🚀 <a href="https://github.com/UDM11/WhatsappAutomationUsingChatGPT">WhatsappAutomationUsingChatGPT</a></h3>
       <p>WhatsApp auto-reply bot powered by ChatGPT, no API key needed. Built on the official Meta WhatsApp Business API.</p>
       <p>
@@ -74,6 +84,8 @@ open_for: Full-Stack / AI Engineering Roles, Collaborations & Open Source
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📈 <a href="https://github.com/UDM11/NepseBOT">NepseBOT</a></h3>
       <p>High-performance NEPSE trading bot that preemptively stages orders and executes buy submissions in sub-milliseconds the moment a target stock becomes tradable at its daily limit.</p>
@@ -82,18 +94,6 @@ open_for: Full-Stack / AI Engineering Roles, Collaborations & Open Source
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👥 <a href="https://github.com/UDM11/BCSITHub">BCSITHub</a></h3>
-      <p>A premium, feature-rich academic portal for Pokhara University BCSIT students featuring study notes, past papers, an online code compiler, a CGPA calculator, and AI quiz tools.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
       </p>
     </td>
     <td width="50%" valign="top">
