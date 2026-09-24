@@ -87,16 +87,6 @@ open_for: Full-Stack / AI Engineering Roles, Collaborations & Open Source
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/UDM11/NepseBOT">NepseBOT</a></h3>
-      <p>High-performance NEPSE trading bot that preemptively stages orders and executes buy submissions in sub-milliseconds the moment a target stock becomes tradable at its daily limit.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3>🚗 <a href="https://github.com/UDM11/Fast-and-Furious-Showroom">Fast-and-Furious-Showroom</a></h3>
       <p>Dynamic car showroom platform with vehicle listings, real-time availability, interactive user experience, and AI-powered chatbot assistance.</p>
       <p>
@@ -106,8 +96,6 @@ open_for: Full-Stack / AI Engineering Roles, Collaborations & Open Source
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>👥 <a href="https://github.com/UDM11/Portfolio">Portfolio</a></h3>
       <p>A premium, dynamic developer portfolio and custom Content Management System (CMS) built with React TypeScript, FastAPI, and Supabase, fully deployed as a unified application.</p>
@@ -118,6 +106,8 @@ open_for: Full-Stack / AI Engineering Roles, Collaborations & Open Source
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/UDM11/PDF-Compression">PDF-Compression</a></h3>
       <p>A premium, client-side PDF compressor that uses a 2D parametric bisection search solver to hit target file size constraints 100% private, fast, and runs entirely in-browser.</p>
@@ -126,6 +116,13 @@ open_for: Full-Stack / AI Engineering Roles, Collaborations & Open Source
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/UDM11/AiraAssistant">AiraAssistant</a></h3>
+      <p>Aira is a complete offline AI-powered desktop assistant that controls your computer through voice commands and natural language processing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       </p>
     </td>
   </tr>
